@@ -1,0 +1,7 @@
+id,value,label
+1,10.5,a
+2,7.2,b
+3,15.0,c
+4,3.8,d
+5,,e
+6,not_a_number,f
